@@ -1,0 +1,11 @@
+C:\Users\sbcut\OneDrive\repo\Practice\w3resource c#\Basic Exercises\HelloWinforms\HelloWinforms\bin\Debug\HelloWinforms.exe.config
+C:\Users\sbcut\OneDrive\repo\Practice\w3resource c#\Basic Exercises\HelloWinforms\HelloWinforms\bin\Debug\HelloWinforms.exe
+C:\Users\sbcut\OneDrive\repo\Practice\w3resource c#\Basic Exercises\HelloWinforms\HelloWinforms\bin\Debug\HelloWinforms.pdb
+C:\Users\sbcut\OneDrive\repo\Practice\w3resource c#\Basic Exercises\HelloWinforms\HelloWinforms\obj\Debug\HelloWinforms.csproj.AssemblyReference.cache
+C:\Users\sbcut\OneDrive\repo\Practice\w3resource c#\Basic Exercises\HelloWinforms\HelloWinforms\obj\Debug\HelloWinforms.csproj.SuggestedBindingRedirects.cache
+C:\Users\sbcut\OneDrive\repo\Practice\w3resource c#\Basic Exercises\HelloWinforms\HelloWinforms\obj\Debug\HelloWinforms.Form1.resources
+C:\Users\sbcut\OneDrive\repo\Practice\w3resource c#\Basic Exercises\HelloWinforms\HelloWinforms\obj\Debug\HelloWinforms.Properties.Resources.resources
+C:\Users\sbcut\OneDrive\repo\Practice\w3resource c#\Basic Exercises\HelloWinforms\HelloWinforms\obj\Debug\HelloWinforms.csproj.GenerateResource.cache
+C:\Users\sbcut\OneDrive\repo\Practice\w3resource c#\Basic Exercises\HelloWinforms\HelloWinforms\obj\Debug\HelloWinforms.csproj.CoreCompileInputs.cache
+C:\Users\sbcut\OneDrive\repo\Practice\w3resource c#\Basic Exercises\HelloWinforms\HelloWinforms\obj\Debug\HelloWinforms.exe
+C:\Users\sbcut\OneDrive\repo\Practice\w3resource c#\Basic Exercises\HelloWinforms\HelloWinforms\obj\Debug\HelloWinforms.pdb
